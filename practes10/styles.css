@@ -1,0 +1,22 @@
+.container {
+    width: 500px;
+    height: 500px;
+    /* background-color: transparent; */
+    /* background-color: rgb(132, 103, 236); */
+    /* background-color: #748; */
+    /* background-color: rgb(34, 124, 243, 0.5) */
+    /* background-image: url(https://dictionary.cambridge.org/ru/images/thumb/book_noun_001_01679.jpg?version=5.0.151); */
+    /* background: #115b3b; */
+/* background: -moz-linear-gradient(top, #115b3b 19%, #771882 67%, #258dc8 76%, #258dc8 78%, #150f54 85%); */
+/* background: -webkit-linear-gradient(top, #115b3b 19%,#771882 67%,#258dc8 76%,#258dc8 78%,#150f54 85%); */
+/* background: linear-gradient(to bottom, #115b3b 19%,#771882 67%,#258dc8 76%,#258dc8 78%,#150f54 85%); */
+/* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#115b3b', endColorstr='#150f54',GradientType=0 ); */
+   
+
+}
+.image-container {
+    width: 500px;
+    height: 500px;
+    background-image: url(https://dictionary.cambridge.org/ru/images/thumb/book_noun_001_01679.jpg?version=5.0.151);
+    background-repeat: no-repeat; 
+}
