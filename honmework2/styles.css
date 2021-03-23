@@ -1,0 +1,10 @@
+.container{
+    background-color: rgb(192, 144, 236);
+    padding: 50px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: inherit;
+    color: rgb(255, 251, 4);
+
+}
